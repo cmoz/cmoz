@@ -8,3 +8,4 @@
 cmoz/cmoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+I joined over a decade ago but mostly have saved my work on my computer. I determined to have a better practice this year and use GH for my code. 
